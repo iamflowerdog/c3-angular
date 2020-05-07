@@ -71,8 +71,11 @@ export class ChartSelectorComponent implements OnInit {
       },
       axis: {
         x: {
-          type: 'category'
+          // type: 'category'
         }
+      },
+      color: {
+        pattern: ['#fd3995', '#1dc9b7']
       }
     };
     if (this.selectedChartType === 'stacked-bar') {
