@@ -8,337 +8,337 @@
                     "Season": "Winter",
                     "Sales rep": "Jenny",
                     "Product": "Oranges",
-                    "data1": 300,
-                    "data2": 2400
+                    "channel1": 300,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "George",
                     "Product": "Grapefruit",
-                    "data1": 200,
-                    "data2": 2300
+                    "channel1": 200,
+                    "channel2": 2300
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "Dave",
                     "Product": "Apples",
-                    "data1": 400,
-                    "data2": 2100
+                    "channel1": 400,
+                    "channel2": 2100
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "Jenny",
                     "Product": "Bananas",
-                    "data1": 300,
-                    "data2": 3400
+                    "channel1": 300,
+                    "channel2": 3400
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "George",
                     "Product": "Oranges",
-                    "data1": 800,
-                    "data2": 2500
+                    "channel1": 800,
+                    "channel2": 2500
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "Dave",
                     "Product": "Grapefruit",
-                    "data1": 400,
-                    "data2": 2900
+                    "channel1": 400,
+                    "channel2": 2900
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "Jenny",
                     "Product": "Apples",
-                    "data1": 200,
-                    "data2": 4400
+                    "channel1": 200,
+                    "channel2": 4400
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "George",
                     "Product": "Bananas",
-                    "data1": 300,
-                    "data2": 1400
+                    "channel1": 300,
+                    "channel2": 1400
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "Dave",
                     "Product": "Oranges",
-                    "data1": 450,
-                    "data2": 2000
+                    "channel1": 450,
+                    "channel2": 2000
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "Jenny",
                     "Product": "Grapefruit",
-                    "data1": 230,
-                    "data2": 1230
+                    "channel1": 230,
+                    "channel2": 1230
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "George",
                     "Product": "Apples",
-                    "data1": 120,
-                    "data2": 2100
+                    "channel1": 120,
+                    "channel2": 2100
                 },
                 {
                     "Season": "Winter",
                     "Sales rep": "Dave",
                     "Product": "Bananas",
-                    "data1": 400,
-                    "data2": 2980
+                    "channel1": 400,
+                    "channel2": 2980
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "Jenny",
                     "Product": "Beets",
-                    "data1": 210,
-                    "data2": 2150
+                    "channel1": 210,
+                    "channel2": 2150
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "George",
                     "Product": "Potatoes",
-                    "data1": 300,
-                    "data2": 2100
+                    "channel1": 300,
+                    "channel2": 2100
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "Dave",
                     "Product": "Lettuce",
-                    "data1": 400,
-                    "data2": 2600
+                    "channel1": 400,
+                    "channel2": 2600
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "Jenny",
                     "Product": "Radishes",
-                    "data1": 230,
-                    "data2": 2470
+                    "channel1": 230,
+                    "channel2": 2470
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "George",
                     "Product": "Beets",
-                    "data1": 900,
-                    "data2": 2490
+                    "channel1": 900,
+                    "channel2": 2490
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "Dave",
                     "Product": "Potatoes",
-                    "data1": 300,
-                    "data2": 2120
+                    "channel1": 300,
+                    "channel2": 2120
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "Jenny",
                     "Product": "Lettuce",
-                    "data1": 200,
-                    "data2": 2860
+                    "channel1": 200,
+                    "channel2": 2860
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "George",
                     "Product": "Radishes",
-                    "data1": 1000,
-                    "data2": 2290
+                    "channel1": 1000,
+                    "channel2": 2290
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "Dave",
                     "Product": "Beets",
-                    "data1": 220,
-                    "data2": 2010
+                    "channel1": 220,
+                    "channel2": 2010
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "Jenny",
                     "Product": "Potatoes",
-                    "data1": 400,
-                    "data2": 5100
+                    "channel1": 400,
+                    "channel2": 5100
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "George",
                     "Product": "Lettuce",
-                    "data1": 200,
-                    "data2": 2400
+                    "channel1": 200,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Spring",
                     "Sales rep": "Dave",
                     "Product": "Radishes",
-                    "data1": 400,
-                    "data2": 2400
+                    "channel1": 400,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "Jenny",
                     "Product": "Blueberries",
-                    "data1": 100,
-                    "data2": 2400
+                    "channel1": 100,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "George",
                     "Product": "Strawberries",
-                    "data1": 30,
-                    "data2": 2400
+                    "channel1": 30,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "Dave",
                     "Product": "Grapes",
-                    "data1": 123,
-                    "data2": 2400
+                    "channel1": 123,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "Jenny",
                     "Product": "Pumpkins",
-                    "data1": 300,
-                    "data2": 2400
+                    "channel1": 300,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "George",
                     "Product": "Blueberries",
-                    "data1": 350,
-                    "data2": 2400
+                    "channel1": 350,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "Dave",
                     "Product": "Strawberries",
-                    "data1": 230,
-                    "data2": 2400
+                    "channel1": 230,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "Jenny",
                     "Product": "Grapes",
-                    "data1": 120,
-                    "data2": 2400
+                    "channel1": 120,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "George",
                     "Product": "Pumpkins",
-                    "data1": 640,
-                    "data2": 2400
+                    "channel1": 640,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "Dave",
                     "Product": "Blueberries",
-                    "data1": 530,
-                    "data2": 2400
+                    "channel1": 530,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "Jenny",
                     "Product": "Strawberries",
-                    "data1": 560,
-                    "data2": 2400
+                    "channel1": 560,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "George",
                     "Product": "Grapes",
-                    "data1": 240,
-                    "data2": 2400
+                    "channel1": 240,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Summer",
                     "Sales rep": "Dave",
                     "Product": "Pumpkins",
-                    "data1": 250,
-                    "data2": 2400
+                    "channel1": 250,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "Jenny",
                     "Product": "Squash",
-                    "data1": 62,
-                    "data2": 2400
+                    "channel1": 62,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "George",
                     "Product": "Zucchini",
-                    "data1": 600,
-                    "data2": 2400
+                    "channel1": 600,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "Dave",
                     "Product": "Apples",
-                    "data1": 340,
-                    "data2": 2400
+                    "channel1": 340,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "Jenny",
                     "Product": "Oranges",
-                    "data1": 205,
-                    "data2": 2400
+                    "channel1": 205,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "George",
                     "Product": "Squash",
-                    "data1": 500,
-                    "data2": 2400
+                    "channel1": 500,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "Dave",
                     "Product": "Zucchini",
-                    "data1": 403,
-                    "data2": 2400
+                    "channel1": 403,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "Jenny",
                     "Product": "Apples",
-                    "data1": 503,
-                    "data2": 2400
+                    "channel1": 503,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "George",
                     "Product": "Oranges",
-                    "data1": 2000,
-                    "data2": 2400
+                    "channel1": 2000,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "Dave",
                     "Product": "Squash",
-                    "data1": 140,
-                    "data2": 2400
+                    "channel1": 140,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "Jenny",
                     "Product": "Zucchini",
-                    "data1": 502,
-                    "data2": 2400
+                    "channel1": 502,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "George",
                     "Product": "Apples",
-                    "data1": 120,
-                    "data2": 2400
+                    "channel1": 120,
+                    "channel2": 2400
                 },
                 {
                     "Season": "Fall",
                     "Sales rep": "Dave",
                     "Product": "Oranges",
-                    "data1": 50,
-                    "data2": 2400
+                    "channel1": 50,
+                    "channel2": 2400
                 }
             ],
             "type": "table"
@@ -352,50 +352,50 @@
                             "Season": "0",
                             "Sales rep": "Jenny",
                             "Product": "Oranges",
-                            "data1": 30,
-                            "data2": 130
+                            "channel1": 30,
+                            "channel2": 130
                         },
                         {
                             "Season": "1",
                             "Sales rep": "Dave",
                             "Product": "Radishes",
-                            "data1": 200,
-                            "data2": 100
+                            "channel1": 200,
+                            "channel2": 100
                         },
                         {
                             "Season": "2",
                             "Sales rep": "Dave",
                             "Product": "Pumpkins",
-                            "data1": 100,
-                            "data2": 140
+                            "channel1": 100,
+                            "channel2": 140
                         },
                         {
                             "Season": "3",
                             "Sales rep": "Dave",
                             "Product": "Oranges",
-                            "data1": 400,
-                            "data2": 200
+                            "channel1": 400,
+                            "channel2": 200
                         },
                         {
                             "Season": "4",
                             "Sales rep": "Dave",
                             "Product": "Oranges",
-                            "data1": 150,
-                            "data2": 150
+                            "channel1": 150,
+                            "channel2": 150
                         },
                         {
                             "Season": "5",
                             "Sales rep": "Dave",
                             "Product": "Oranges",
-                            "data1": 250,
-                            "data2": 50
+                            "channel1": 250,
+                            "channel2": 50
                         }
                     ],
                     "keys": {
                         "x": "Season",
                         "value": [
-                            "data1",
-                            "data2"
+                            "channel1",
+                            "channel2"
                         ]
                     },
                     "type": "spline",
@@ -415,7 +415,7 @@
                 "data": [
                     {
                         "label": "Winter",
-                        "data1": 4100,
+                        "channel1": 4100,
                         "__level__": 0,
                         "__isHidden__": false,
                         "__endIndex__": 15,
@@ -423,7 +423,7 @@
                     },
                     {
                         "label": "Jenny",
-                        "data1": 1030,
+                        "channel1": 1030,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 5,
@@ -431,27 +431,27 @@
                     },
                     {
                         "label": "Oranges",
-                        "data1": 300,
+                        "channel1": 300,
                         "__isHidden__": false
                     },
                     {
                         "label": "Grapefruit",
-                        "data1": 230,
+                        "channel1": 230,
                         "__isHidden__": false
                     },
                     {
                         "label": "Apples",
-                        "data1": 200,
+                        "channel1": 200,
                         "__isHidden__": false
                     },
                     {
                         "label": "Bananas",
-                        "data1": 300,
+                        "channel1": 300,
                         "__isHidden__": false
                     },
                     {
                         "label": "George",
-                        "data1": 1420,
+                        "channel1": 1420,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 10,
@@ -459,27 +459,27 @@
                     },
                     {
                         "label": "Oranges",
-                        "data1": 800,
+                        "channel1": 800,
                         "__isHidden__": false
                     },
                     {
                         "label": "Grapefruit",
-                        "data1": 200,
+                        "channel1": 200,
                         "__isHidden__": false
                     },
                     {
                         "label": "Apples",
-                        "data1": 120,
+                        "channel1": 120,
                         "__isHidden__": false
                     },
                     {
                         "label": "Bananas",
-                        "data1": 300,
+                        "channel1": 300,
                         "__isHidden__": false
                     },
                     {
                         "label": "Dave",
-                        "data1": 1650,
+                        "channel1": 1650,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 15,
@@ -487,27 +487,27 @@
                     },
                     {
                         "label": "Oranges",
-                        "data1": 450,
+                        "channel1": 450,
                         "__isHidden__": false
                     },
                     {
                         "label": "Grapefruit",
-                        "data1": 400,
+                        "channel1": 400,
                         "__isHidden__": false
                     },
                     {
                         "label": "Apples",
-                        "data1": 400,
+                        "channel1": 400,
                         "__isHidden__": false
                     },
                     {
                         "label": "Bananas",
-                        "data1": 400,
+                        "channel1": 400,
                         "__isHidden__": false
                     },
                     {
                         "label": "Spring",
-                        "data1": 4760,
+                        "channel1": 4760,
                         "__level__": 0,
                         "__isHidden__": false,
                         "__endIndex__": 31,
@@ -515,7 +515,7 @@
                     },
                     {
                         "label": "Jenny",
-                        "data1": 1040,
+                        "channel1": 1040,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 21,
@@ -523,27 +523,27 @@
                     },
                     {
                         "label": "Beets",
-                        "data1": 210,
+                        "channel1": 210,
                         "__isHidden__": false
                     },
                     {
                         "label": "Potatoes",
-                        "data1": 400,
+                        "channel1": 400,
                         "__isHidden__": false
                     },
                     {
                         "label": "Lettuce",
-                        "data1": 200,
+                        "channel1": 200,
                         "__isHidden__": false
                     },
                     {
                         "label": "Radishes",
-                        "data1": 230,
+                        "channel1": 230,
                         "__isHidden__": false
                     },
                     {
                         "label": "George",
-                        "data1": 2400,
+                        "channel1": 2400,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 26,
@@ -551,27 +551,27 @@
                     },
                     {
                         "label": "Beets",
-                        "data1": 900,
+                        "channel1": 900,
                         "__isHidden__": false
                     },
                     {
                         "label": "Potatoes",
-                        "data1": 300,
+                        "channel1": 300,
                         "__isHidden__": false
                     },
                     {
                         "label": "Lettuce",
-                        "data1": 200,
+                        "channel1": 200,
                         "__isHidden__": false
                     },
                     {
                         "label": "Radishes",
-                        "data1": 1000,
+                        "channel1": 1000,
                         "__isHidden__": false
                     },
                     {
                         "label": "Dave",
-                        "data1": 1320,
+                        "channel1": 1320,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 31,
@@ -579,27 +579,27 @@
                     },
                     {
                         "label": "Beets",
-                        "data1": 220,
+                        "channel1": 220,
                         "__isHidden__": false
                     },
                     {
                         "label": "Potatoes",
-                        "data1": 300,
+                        "channel1": 300,
                         "__isHidden__": false
                     },
                     {
                         "label": "Lettuce",
-                        "data1": 400,
+                        "channel1": 400,
                         "__isHidden__": false
                     },
                     {
                         "label": "Radishes",
-                        "data1": 400,
+                        "channel1": 400,
                         "__isHidden__": false
                     },
                     {
                         "label": "Summer",
-                        "data1": 3473,
+                        "channel1": 3473,
                         "__level__": 0,
                         "__isHidden__": false,
                         "__endIndex__": 47,
@@ -607,7 +607,7 @@
                     },
                     {
                         "label": "Jenny",
-                        "data1": 1080,
+                        "channel1": 1080,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 37,
@@ -615,27 +615,27 @@
                     },
                     {
                         "label": "Blueberries",
-                        "data1": 100,
+                        "channel1": 100,
                         "__isHidden__": false
                     },
                     {
                         "label": "Strawberries",
-                        "data1": 560,
+                        "channel1": 560,
                         "__isHidden__": false
                     },
                     {
                         "label": "Grapes",
-                        "data1": 120,
+                        "channel1": 120,
                         "__isHidden__": false
                     },
                     {
                         "label": "Pumpkins",
-                        "data1": 300,
+                        "channel1": 300,
                         "__isHidden__": false
                     },
                     {
                         "label": "George",
-                        "data1": 1260,
+                        "channel1": 1260,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 42,
@@ -643,27 +643,27 @@
                     },
                     {
                         "label": "Blueberries",
-                        "data1": 350,
+                        "channel1": 350,
                         "__isHidden__": false
                     },
                     {
                         "label": "Strawberries",
-                        "data1": 30,
+                        "channel1": 30,
                         "__isHidden__": false
                     },
                     {
                         "label": "Grapes",
-                        "data1": 240,
+                        "channel1": 240,
                         "__isHidden__": false
                     },
                     {
                         "label": "Pumpkins",
-                        "data1": 640,
+                        "channel1": 640,
                         "__isHidden__": false
                     },
                     {
                         "label": "Dave",
-                        "data1": 1133,
+                        "channel1": 1133,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 47,
@@ -671,27 +671,27 @@
                     },
                     {
                         "label": "Blueberries",
-                        "data1": 530,
+                        "channel1": 530,
                         "__isHidden__": false
                     },
                     {
                         "label": "Strawberries",
-                        "data1": 230,
+                        "channel1": 230,
                         "__isHidden__": false
                     },
                     {
                         "label": "Grapes",
-                        "data1": 123,
+                        "channel1": 123,
                         "__isHidden__": false
                     },
                     {
                         "label": "Pumpkins",
-                        "data1": 250,
+                        "channel1": 250,
                         "__isHidden__": false
                     },
                     {
                         "label": "Fall",
-                        "data1": 5425,
+                        "channel1": 5425,
                         "__level__": 0,
                         "__isHidden__": false,
                         "__endIndex__": 63,
@@ -699,7 +699,7 @@
                     },
                     {
                         "label": "Jenny",
-                        "data1": 1272,
+                        "channel1": 1272,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 53,
@@ -707,27 +707,27 @@
                     },
                     {
                         "label": "Oranges",
-                        "data1": 205,
+                        "channel1": 205,
                         "__isHidden__": false
                     },
                     {
                         "label": "Apples",
-                        "data1": 503,
+                        "channel1": 503,
                         "__isHidden__": false
                     },
                     {
                         "label": "Squash",
-                        "data1": 62,
+                        "channel1": 62,
                         "__isHidden__": false
                     },
                     {
                         "label": "Zucchini",
-                        "data1": 502,
+                        "channel1": 502,
                         "__isHidden__": false
                     },
                     {
                         "label": "George",
-                        "data1": 3220,
+                        "channel1": 3220,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 58,
@@ -735,27 +735,27 @@
                     },
                     {
                         "label": "Oranges",
-                        "data1": 2000,
+                        "channel1": 2000,
                         "__isHidden__": false
                     },
                     {
                         "label": "Apples",
-                        "data1": 120,
+                        "channel1": 120,
                         "__isHidden__": false
                     },
                     {
                         "label": "Squash",
-                        "data1": 500,
+                        "channel1": 500,
                         "__isHidden__": false
                     },
                     {
                         "label": "Zucchini",
-                        "data1": 600,
+                        "channel1": 600,
                         "__isHidden__": false
                     },
                     {
                         "label": "Dave",
-                        "data1": 933,
+                        "channel1": 933,
                         "__level__": 1,
                         "__isHidden__": false,
                         "__endIndex__": 63,
@@ -763,22 +763,22 @@
                     },
                     {
                         "label": "Oranges",
-                        "data1": 50,
+                        "channel1": 50,
                         "__isHidden__": false
                     },
                     {
                         "label": "Apples",
-                        "data1": 340,
+                        "channel1": 340,
                         "__isHidden__": false
                     },
                     {
                         "label": "Squash",
-                        "data1": 140,
+                        "channel1": 140,
                         "__isHidden__": false
                     },
                     {
                         "label": "Zucchini",
-                        "data1": 403,
+                        "channel1": 403,
                         "__isHidden__": false
                     }
                 ],
@@ -789,7 +789,7 @@
                 ],
                 "columns": [],
                 "values": [
-                    "data1"
+                    "channel1"
                 ],
                 "filters": [
                     "Season"
@@ -799,337 +799,337 @@
                         "Season": "Winter",
                         "Sales rep": "Jenny",
                         "Product": "Oranges",
-                        "data1": 300,
-                        "data2": 2400
+                        "channel1": 300,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "George",
                         "Product": "Grapefruit",
-                        "data1": 200,
-                        "data2": 2300
+                        "channel1": 200,
+                        "channel2": 2300
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "Dave",
                         "Product": "Apples",
-                        "data1": 400,
-                        "data2": 2100
+                        "channel1": 400,
+                        "channel2": 2100
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "Jenny",
                         "Product": "Bananas",
-                        "data1": 300,
-                        "data2": 3400
+                        "channel1": 300,
+                        "channel2": 3400
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "George",
                         "Product": "Oranges",
-                        "data1": 800,
-                        "data2": 2500
+                        "channel1": 800,
+                        "channel2": 2500
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "Dave",
                         "Product": "Grapefruit",
-                        "data1": 400,
-                        "data2": 2900
+                        "channel1": 400,
+                        "channel2": 2900
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "Jenny",
                         "Product": "Apples",
-                        "data1": 200,
-                        "data2": 4400
+                        "channel1": 200,
+                        "channel2": 4400
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "George",
                         "Product": "Bananas",
-                        "data1": 300,
-                        "data2": 1400
+                        "channel1": 300,
+                        "channel2": 1400
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "Dave",
                         "Product": "Oranges",
-                        "data1": 450,
-                        "data2": 2000
+                        "channel1": 450,
+                        "channel2": 2000
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "Jenny",
                         "Product": "Grapefruit",
-                        "data1": 230,
-                        "data2": 1230
+                        "channel1": 230,
+                        "channel2": 1230
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "George",
                         "Product": "Apples",
-                        "data1": 120,
-                        "data2": 2100
+                        "channel1": 120,
+                        "channel2": 2100
                     },
                     {
                         "Season": "Winter",
                         "Sales rep": "Dave",
                         "Product": "Bananas",
-                        "data1": 400,
-                        "data2": 2980
+                        "channel1": 400,
+                        "channel2": 2980
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "Jenny",
                         "Product": "Beets",
-                        "data1": 210,
-                        "data2": 2150
+                        "channel1": 210,
+                        "channel2": 2150
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "George",
                         "Product": "Potatoes",
-                        "data1": 300,
-                        "data2": 2100
+                        "channel1": 300,
+                        "channel2": 2100
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "Dave",
                         "Product": "Lettuce",
-                        "data1": 400,
-                        "data2": 2600
+                        "channel1": 400,
+                        "channel2": 2600
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "Jenny",
                         "Product": "Radishes",
-                        "data1": 230,
-                        "data2": 2470
+                        "channel1": 230,
+                        "channel2": 2470
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "George",
                         "Product": "Beets",
-                        "data1": 900,
-                        "data2": 2490
+                        "channel1": 900,
+                        "channel2": 2490
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "Dave",
                         "Product": "Potatoes",
-                        "data1": 300,
-                        "data2": 2120
+                        "channel1": 300,
+                        "channel2": 2120
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "Jenny",
                         "Product": "Lettuce",
-                        "data1": 200,
-                        "data2": 2860
+                        "channel1": 200,
+                        "channel2": 2860
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "George",
                         "Product": "Radishes",
-                        "data1": 1000,
-                        "data2": 2290
+                        "channel1": 1000,
+                        "channel2": 2290
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "Dave",
                         "Product": "Beets",
-                        "data1": 220,
-                        "data2": 2010
+                        "channel1": 220,
+                        "channel2": 2010
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "Jenny",
                         "Product": "Potatoes",
-                        "data1": 400,
-                        "data2": 5100
+                        "channel1": 400,
+                        "channel2": 5100
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "George",
                         "Product": "Lettuce",
-                        "data1": 200,
-                        "data2": 2400
+                        "channel1": 200,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Spring",
                         "Sales rep": "Dave",
                         "Product": "Radishes",
-                        "data1": 400,
-                        "data2": 2400
+                        "channel1": 400,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "Jenny",
                         "Product": "Blueberries",
-                        "data1": 100,
-                        "data2": 2400
+                        "channel1": 100,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "George",
                         "Product": "Strawberries",
-                        "data1": 30,
-                        "data2": 2400
+                        "channel1": 30,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "Dave",
                         "Product": "Grapes",
-                        "data1": 123,
-                        "data2": 2400
+                        "channel1": 123,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "Jenny",
                         "Product": "Pumpkins",
-                        "data1": 300,
-                        "data2": 2400
+                        "channel1": 300,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "George",
                         "Product": "Blueberries",
-                        "data1": 350,
-                        "data2": 2400
+                        "channel1": 350,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "Dave",
                         "Product": "Strawberries",
-                        "data1": 230,
-                        "data2": 2400
+                        "channel1": 230,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "Jenny",
                         "Product": "Grapes",
-                        "data1": 120,
-                        "data2": 2400
+                        "channel1": 120,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "George",
                         "Product": "Pumpkins",
-                        "data1": 640,
-                        "data2": 2400
+                        "channel1": 640,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "Dave",
                         "Product": "Blueberries",
-                        "data1": 530,
-                        "data2": 2400
+                        "channel1": 530,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "Jenny",
                         "Product": "Strawberries",
-                        "data1": 560,
-                        "data2": 2400
+                        "channel1": 560,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "George",
                         "Product": "Grapes",
-                        "data1": 240,
-                        "data2": 2400
+                        "channel1": 240,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Summer",
                         "Sales rep": "Dave",
                         "Product": "Pumpkins",
-                        "data1": 250,
-                        "data2": 2400
+                        "channel1": 250,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "Jenny",
                         "Product": "Squash",
-                        "data1": 62,
-                        "data2": 2400
+                        "channel1": 62,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "George",
                         "Product": "Zucchini",
-                        "data1": 600,
-                        "data2": 2400
+                        "channel1": 600,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "Dave",
                         "Product": "Apples",
-                        "data1": 340,
-                        "data2": 2400
+                        "channel1": 340,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "Jenny",
                         "Product": "Oranges",
-                        "data1": 205,
-                        "data2": 2400
+                        "channel1": 205,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "George",
                         "Product": "Squash",
-                        "data1": 500,
-                        "data2": 2400
+                        "channel1": 500,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "Dave",
                         "Product": "Zucchini",
-                        "data1": 403,
-                        "data2": 2400
+                        "channel1": 403,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "Jenny",
                         "Product": "Apples",
-                        "data1": 503,
-                        "data2": 2400
+                        "channel1": 503,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "George",
                         "Product": "Oranges",
-                        "data1": 2000,
-                        "data2": 2400
+                        "channel1": 2000,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "Dave",
                         "Product": "Squash",
-                        "data1": 140,
-                        "data2": 2400
+                        "channel1": 140,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "Jenny",
                         "Product": "Zucchini",
-                        "data1": 502,
-                        "data2": 2400
+                        "channel1": 502,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "George",
                         "Product": "Apples",
-                        "data1": 120,
-                        "data2": 2400
+                        "channel1": 120,
+                        "channel2": 2400
                     },
                     {
                         "Season": "Fall",
                         "Sales rep": "Dave",
                         "Product": "Oranges",
-                        "data1": 50,
-                        "data2": 2400
+                        "channel1": 50,
+                        "channel2": 2400
                     }
                 ]
             },
